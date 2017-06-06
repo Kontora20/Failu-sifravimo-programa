@@ -1,0 +1,9 @@
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\bin\Debug\Multi_AntrasDarbas_AG.exe.config
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\bin\Debug\Multi_AntrasDarbas_AG.exe
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\bin\Debug\Multi_AntrasDarbas_AG.pdb
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\obj\Debug\Multi_AntrasDarbas_AG.csprojResolveAssemblyReference.cache
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\obj\Debug\Multi_AntrasDarbas_AG.Form1.resources
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\obj\Debug\Multi_AntrasDarbas_AG.Properties.Resources.resources
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\obj\Debug\Multi_AntrasDarbas_AG.csproj.GenerateResource.Cache
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\obj\Debug\Multi_AntrasDarbas_AG.exe
+c:\users\arnas\documents\visual studio 2015\Projects\Multi_AntrasDarbas_AG\Multi_AntrasDarbas_AG\obj\Debug\Multi_AntrasDarbas_AG.pdb
